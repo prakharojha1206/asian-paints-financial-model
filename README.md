@@ -33,6 +33,8 @@ The model integrates historical financial statements, forecasting, valuation tec
 - Consolidated Cash Flow Statement
 - Common Size Statements
 - Comparative Statements
+
+  <img width="2000" height="1414" alt="3" src="https://github.com/user-attachments/assets/4bc5b27e-a8c6-4129-8dce-e82cf51e384e" />
   
 ---
 
@@ -46,6 +48,9 @@ Forecasts prepared using appropriate business and financial assumptions includin
 - Capital Expenditure
 - Tax Rate
 - Terminal Growth Rate
+  
+ <img width="2000" height="1414" alt="1" src="https://github.com/user-attachments/assets/c4aa2fba-c0f9-4e06-a444-c8b4ef6157dc" />
+
 
 Forecast period:
 
@@ -75,7 +80,7 @@ Enterprise Value calculated using:
 - Free Cash Flow to Firm (FCFF)
 - Weighted Average Cost of Capital (WACC)
 - Terminal Value (Gordon Growth Method)
-
+  
 Intrinsic Equity Value is obtained after adjusting for:
 
 - Net Debt
@@ -84,6 +89,8 @@ Finally,
 
 Intrinsic Share Price =
 Equity Value ÷ Outstanding Shares
+
+<img width="2000" height="1414" alt="4" src="https://github.com/user-attachments/assets/cf511034-8320-41d2-ba25-35e2a001ae1d" />
 
 ---
 
@@ -101,7 +108,9 @@ Inputs include:
 - Equity Risk Premium
 - Levered Beta
 - Tax Rate
-
+  
+ <img width="2000" height="1414" alt="2" src="https://github.com/user-attachments/assets/6c5aa04d-eafa-4b8e-88a6-326da69fbf31" />
+ 
 ---
 
 ## Scenario Analysis
@@ -112,7 +121,9 @@ The valuation supports multiple scenarios:
 - Base Case
 - Bear Case
 
-Key assumptions such as revenue growth, EBIT margin, tax rate, WACC and terminal growth can be adjusted dynamically.
+Key assumptions such as revenue growth, EBIT margin, tax rate, WACC and terminal growth can be **adjusted dynamically.**
+
+<img width="1367" height="705" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/fc6b14a3-7dae-4d79-97be-928956d40828" />
 
 ---
 
@@ -120,10 +131,10 @@ Key assumptions such as revenue growth, EBIT margin, tax rate, WACC and terminal
 
 Sensitivity tables evaluate the impact of changes in:
 
-- WACC
-- Terminal Growth Rate
-- EBIT Margin
 - Revenue Growth
+- EBIT Margin
+- Terminal Growth
+- WACC
 - Tax Rate
 
 allowing users to understand valuation ranges under different assumptions.
@@ -193,6 +204,8 @@ The model evaluates:
 
 - Debt to Equity
 - Interest Coverage
+  
+<img width="2000" height="1414" alt="5" src="https://github.com/user-attachments/assets/00a489a6-24b7-4459-bc1b-609ce732f9ff" />
 
 ---
 
