@@ -265,12 +265,12 @@ The model follows reasonable forecasting assumptions based on:
 
 ---
 
-## Author
+## 👤 Author
 
 **Prakhar Ojha**
 
-ACCA Finalist (10/13 Papers Completed)
-
-B.Com (Hons.) – Financial Markets Management (BHU, Varanasi)
+- ACCA Finalist (10/13 Papers Completed)
+  [Advanced Financial Management (AFM) Completed]
+- B.Com (Hons.) – Financial Markets Management, Banaras Hindu University (BHU), Varanasi
 
 ---
