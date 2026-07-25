@@ -123,7 +123,8 @@ The valuation supports multiple scenarios:
 
 Key assumptions such as revenue growth, EBIT margin, tax rate, WACC and terminal growth can be **adjusted dynamically.**
 
-<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/c7c9794f-f7a7-4974-90e2-a7d5a84117d3" />
+<img width="1887" height="887" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/c494849e-76bb-4ec4-8597-32a535a0ee32" />
+
 
 ---
 
