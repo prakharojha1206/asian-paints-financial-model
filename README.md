@@ -24,6 +24,17 @@ The model integrates historical financial statements, forecasting, valuation tec
 
 ---
 
+## Repository Structure
+
+asian-paints-financial-model
+│
+├── README.md
+├── 01_ASIAN PAINTS LTD Overview.pdf
+├── 02_Forecasting Methodology and Key Assumptions.pdf
+├── 03_Valuation Report and Conclusion.pdf
+├── 04_ASIAN PAINTS LTD. FINANCIAL MODELLING.xlsx
+├── 05_ASIAN PAINTS Graphs.pdf
+
 ## Features
 
 ### Financial Statements
