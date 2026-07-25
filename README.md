@@ -148,28 +148,27 @@ The workbook includes an interactive dashboard summarising:
 
 ### KPI Cards
 
-- Revenue
-- EBITDA
-- EBIT
-- Net Profit
 - FCFF
 - Enterprise Value
 - Equity Value
 - Intrinsic Share Price
-- WACC
-- Terminal Growth
+- WACC derived using CAPM
+- Terminal Value and Growth Rate
+- Tax Rate
+  
+  <img width="1898" height="847" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/5c72920e-4148-48e9-a8c4-da7a05c03dde" />
+ 
+## Interactive Dashboard
 
-### Charts
+The dashboard is fully interactive and controlled using a **Financial Year slicer**, allowing users to analyze historical and forecast performance across different periods.
 
+### Visualizations Included
 - Revenue Trend
-- EBITDA Margin
-- EBIT Trend
-- PAT Trend
-- Free Cash Flow Trend
-- Historical vs Forecast Performance
-- Revenue Composition
-- Ratio Analysis
-- Valuation Summary
+- Gross Profit Trend
+- EBITDA Margin Trend
+- PAT (Profit After Tax) Trend
+- Capital Structure & Cost of Capital Analysis
+- Financial Ratio Analysis
 
 ---
 
@@ -177,15 +176,16 @@ The workbook includes an interactive dashboard summarising:
 
 The model evaluates:
 
-### Profitability
+### Performance
 
 - Gross Margin
 - EBITDA Margin
 - EBIT Margin
-- Net Profit Margin
-- ROE
-- ROCE
-- ROA
+- EBT Margin
+- PAT Margin
+- ROE %
+- ROCE %
+- ROA %
 
 ### Liquidity
 
@@ -196,10 +196,20 @@ The model evaluates:
 
 - Asset Turnover
 - Working Capital Turnover
-- Inventory Turnover
-- Receivable Days
-- Payable Days
-- Cash Conversion Cycle
+- Inventory Turnover and Days
+- Receivable Turnover and Days
+- Payable Turnover and Days
+- Working Capital Cycle/Cash Conversion Cycle
+
+### Investor
+
+- Earnings Per Share (Basic)
+- Dividend Per Share
+- Dividend Payout Ratio
+- Retention Ratio
+- Dividend Yield
+- Earnings Yield
+- P/E Ratio
 
 ### Leverage
 
@@ -223,7 +233,7 @@ The model follows reasonable forecasting assumptions based on:
 
 ## Data Sources
 
-- Asian Paints Annual Reports
+- Asian Paints Annual Reports FY2020-FY2026
 - Groww
 - Bajaj Finserv
 - Yahoo Finance
@@ -236,7 +246,7 @@ The model follows reasonable forecasting assumptions based on:
 
 **Prakhar Ojha**
 
-ACCA Candidate (10/13 Papers Completed)
+ACCA Finalist (10/13 Papers Completed)
 
 B.Com (Hons.) – Financial Markets Management (BHU, Varanasi)
 
