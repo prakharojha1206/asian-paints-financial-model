@@ -13,17 +13,6 @@ The model integrates historical financial statements, forecasting, valuation tec
 
 ---
 
-## Project Objectives
-
-- Forecast the company's future financial performance.
-- Estimate intrinsic share value using FCFF valuation.
-- Analyse historical financial trends.
-- Evaluate business performance using financial ratios.
-- Assess valuation sensitivity under different assumptions.
-- Present outputs through an interactive dashboard.
-
----
-
 ## Repository Structure
 
 asian-paints-financial-model
@@ -34,6 +23,29 @@ asian-paints-financial-model
 ├── 03_Valuation Report and Conclusion.pdf
 ├── 04_ASIAN PAINTS LTD. FINANCIAL MODELLING.xlsx
 ├── 05_ASIAN PAINTS Graphs.pdf
+
+---
+
+## Project Files
+
+-  [01_ASIAN PAINTS LTD Overview.pdf](01_ASIAN%20PAINTS%20LTD%20Overview.pdf)
+-  [02_Forecasting Methodology and Key Assumptions.pdf](02_Forecasting%20Methodology%20and%20Key%20Assumptions.pdf)
+-  [03_Valuation Report and Conclusion.pdf](03_Valuation%20Report%20and%20Conclusion.pdf)
+-  [04_ASIAN PAINTS LTD. FINANCIAL MODELLING.xlsx](04_ASIAN%20PAINTS%20LTD.%20FINANCIAL%20MODELLING.xlsx)
+-  [05_ASIAN PAINTS Graphs.pdf](05_ASIAN%20PAINTS%20Graphs.pdf)
+
+---
+
+## Project Objectives
+
+- Forecast the company's future financial performance.
+- Estimate intrinsic share value using FCFF valuation.
+- Analyse historical financial trends.
+- Evaluate business performance using financial ratios.
+- Assess valuation sensitivity under different assumptions.
+- Present outputs through an interactive dashboard.
+
+---
 
 ## Features
 
