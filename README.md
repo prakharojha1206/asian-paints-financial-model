@@ -1,4 +1,4 @@
-# asian-paints-financial-model
+# ASIAN PAINTS FINANCIAL MODEL
 Three-Statement Forecasting, and DCF Valuation and Report
 
 ## Disclaimer
