@@ -1,4 +1,4 @@
-# ASIAN PAINTS FINANCIAL MODEL
+# ASIAN PAINTS LTD. FINANCIAL MODEL
 Three-Statement Forecasting, and DCF Valuation and Report
 
 ## Disclaimer
