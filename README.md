@@ -28,6 +28,14 @@ asian-paints-financial-model
 
 ## Project Files
 
+| Document | Link |
+|----------|------|
+| Company Overview | [01_ASIAN PAINTS LTD Overview.pdf](./01_ASIAN%20PAINTS%20LTD%20Overview.pdf) |
+| Forecasting Methodology & Key Assumptions | [02_Forecasting Methodology and Key Assumptions.pdf](./02_Forecasting%20Methodology%20and%20Key%20Assumptions.pdf) |
+| Valuation Report & Conclusion | [03_Valuation Report and Conclusion.pdf](./03_Valuation%20Report%20and%20Conclusion.pdf) |
+| Financial Model (Excel) | [04_ASIAN PAINTS LTD. FINANCIAL MODELLING.xlsx](./04_ASIAN%20PAINTS%20LTD.%20FINANCIAL%20MODELLING.xlsx) |
+| Graphs & Charts | [05_ASIAN PAINTS Graphs.pdf](./05_ASIAN%20PAINTS%20Graphs.pdf) |
+
 
 
 ---
